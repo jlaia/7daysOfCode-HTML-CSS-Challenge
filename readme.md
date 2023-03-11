@@ -1,5 +1,5 @@
 # 7daysOfCode-HTML-CSS-Challenge
-Desafio de 7 dias que propõem a prática diária do HTML e CSS, em uma página fictícia sobre contratações em uma empresa de TI.
+Desafio de 7 dias que propõem a prática diária do HTML e CSS com uma página fictícia sobre contratações em uma empresa de TI.
 
 🔨 Funcionalidades do projeto:
 Por se tratar de um projeto restrito ao uso do HTML e CSS, as funcionalidades estão atreladas a linguagem de marcação e estilo.
