@@ -1,0 +1,129 @@
+
+.conteudo__vagas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4em;
+    padding: 6em;
+}
+
+.conteudo__vagas__abertas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto-indicativo__vagas {
+    color: var(--cor-botao);
+    font-weight: 600;
+    line-height: 1.5em;
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    padding: 0.25em 0.75em;
+}
+
+.conteudo__titulo {
+    font-size: 2.25rem;
+    color: var(--cor-destaque);
+    font-weight: 600;
+    line-height: 2.5em;
+}
+
+.conteudo__subtitulo {
+    font-size: 1.25rem;
+    color: var(--cor-texto);
+    line-height: 1.9em;
+}
+
+.conteudo__vagas__imagem {
+    width: 100%;
+    margin: 4em 0 0;
+}
+
+.conteudo__vagas__lista {
+   width: 65%;
+}
+
+.conteudo__vagas__tipo {
+    display: flex;
+    flex-direction: column;
+    padding: 4em 2em;
+    gap: 4em;
+}
+
+.container__vaga__tipo {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 1.5em 1.5em 1.75em;
+}
+
+.vagas__titulo {
+    font-size: 1.25rem;
+    color: var(--cor-destaque);
+    font-weight: 600;
+    line-height: 1.9em;
+}
+
+.vagas__subtitulo {
+    font-size: 1.12rem;
+    color: var(--cor-destaque);
+    font-weight: 600;
+    line-height: 1.5em;
+} 
+
+.vagas__item {
+    color: var(--cor-texto);
+    line-height: 1.5em;
+    font-weight: 600;
+}
+
+.conteudo__depoimentos {
+    padding: 0 6em 6em;
+}
+
+.conteudo__depoimentos__perfil {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 4em;
+    gap: 2em;
+    background-color: var(--cor-depoimento);
+    border-radius: 1rem;
+}
+
+.conteudo__depoimentos__titulo {
+    font-weight: 500;
+    font-size: 2rem;
+    line-height: 1.3em;
+    color: var(--cor-destaque);
+}
+
+.container__perfil {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.conteudo__depoimento__imagem {
+    width: 6%;
+    margin: 0.5em;
+}
+
+.conteudo__depoimentos__subtitulo {
+    font-size: 1rem;
+    font-weight: 550;
+    line-height: 1.5em;
+    color: var(--cor-destaque);
+}
+
+.conteudo__depoimentos__texto {
+    font-weight: 550;
+    line-height: 1.2em;
+    color: var(--cor-texto);
+}
+
+

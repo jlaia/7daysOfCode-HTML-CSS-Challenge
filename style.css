@@ -1,0 +1,27 @@
+@import url("./assets/styles/header.css");
+@import url("./assets/styles/metricas.css");
+@import url("./assets/styles/vagas.css");
+@import url("./assets/styles/footer.css");
+
+
+:root {
+    --cor-fundo: #ffffff;
+    --cor-destaque:  #101828;
+    --cor-texto: #667085;
+    --cor-botao: #8E2424;
+    --cor-depoimento: rgba(196, 25, 25, 0.03);
+    --direitos-reservados: #98A2B3;
+    --cor-cadastro: #F9FAFB;
+    --cor-borda-input: #D0D5DD;
+    --font-principal: 'Inter', sans-serif;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    font-family: var(--font-principal);
+    color: var(--cor-texto);
+    font-size: 1rem;
+    font-weight: 400;
+    width: 100%;
+    height: 100vh;
+}
